@@ -1,0 +1,7 @@
+# Folders
+.cache/
+.next/
+.vscode/
+node_modules/
+
+# Files
