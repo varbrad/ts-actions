@@ -12,7 +12,7 @@
     "tsc": "tsc"
   },
   "dependencies": {
-    "immer": "^5.0.0",
+    "immer": "^8.0.1",
     "react": "~16.9.0",
     "react-dom": "~16.9.0"
   },
